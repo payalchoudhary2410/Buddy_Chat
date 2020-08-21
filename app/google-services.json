@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "306994035779",
+    "firebase_url": "https://buddy-chat-a033f.firebaseio.com",
+    "project_id": "buddy-chat-a033f",
+    "storage_bucket": "buddy-chat-a033f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306994035779:android:c73e87f0c1ab185b5468f6",
+        "android_client_info": {
+          "package_name": "com.example.buddy_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306994035779-2mhk55du1r0pseuu54nl7n874ltdjejl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.buddy_chat",
+            "certificate_hash": "7b6c9d92caa5d2be0461bf1e868aced6e83a919d"
+          }
+        },
+        {
+          "client_id": "306994035779-kksal2c3qkr74ds4csm985tnie71n2bo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbUSKrl3Tzb2fKMnrEPtg6PAYWMuCJvww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306994035779-kksal2c3qkr74ds4csm985tnie71n2bo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
