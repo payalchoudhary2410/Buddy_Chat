@@ -9,7 +9,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MobAuth"></activity>
+        <activity android:name=".Registration"></activity>
+        <activity android:name=".Recently_Contacted" />
+        <activity android:name=".MobAuth" />
         <activity android:name=".GetStarted" />
         <activity android:name=".MainActivity">
             <intent-filter>
